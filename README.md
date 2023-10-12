@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cubaneOvO
-- 👀 I’m interested in Play Genshin Impact 
-- 🌱 I’m currently learning c and data structure 
+- 👀 
+- 🌱 Learning server-side development
 - 📫 2661975721@qq.com
 
 <!---
