@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cubaneOvO
-- 👀 
-- 🌱 Learning server-side development
+- 👀 Server-side development
+- 🌱 Junior in software engineering
 - 📫 2661975721@qq.com
 
 <!---
